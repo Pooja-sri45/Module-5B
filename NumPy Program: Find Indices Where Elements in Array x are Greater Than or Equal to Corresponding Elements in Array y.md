@@ -26,7 +26,8 @@ print(np.where(l1==l2))
 ```
 
 ## Output
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9b349dc6-03a5-421f-bf96-eb65a90c8afe)
+
 
 ## Result
 Thus the python program for element wise comparison between two numpy array has been implemented and executed successfully.
