@@ -30,7 +30,7 @@ print(df)
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/4041556f-2c1a-403c-8f10-77ea71e96957)
+![image](https://github.com/user-attachments/assets/ac934b63-93fd-4573-841d-a82f8b28846b)
 
 
 ## Result
