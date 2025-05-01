@@ -22,7 +22,8 @@ print(np.sort(a,axis=0))
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/d60b6cc4-c420-4324-b1e6-5751f9f9240c)
+![image](https://github.com/user-attachments/assets/e80f8ae2-2b87-47a2-adcf-d0f1b447dbcb)
+
 
 
 ## Result
